@@ -1,6 +1,6 @@
-# Aplicação React de Gerenciamento de Projetos e Tarefas
+# Aplicação React / projeto kanban
 
-Projeto criado com as bibliotecas React JS e Material UI.
+Projeto da faculdade
 
 ## Passo-a-passo para execução
 
